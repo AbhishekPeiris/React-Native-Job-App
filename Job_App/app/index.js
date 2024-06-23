@@ -16,7 +16,7 @@ const Home = () => {
                         <ScreenHeaderBtn iconUrl={icons.menu} dimensions="60%" />
                     ),
                     headerRight: () => (
-                        <ScreenHeaderBtn iconUrl={icons.profile} dimensions="100%" />
+                        <ScreenHeaderBtn iconUrl={images.profile} dimensions="100%" />
                     ),
                     headerTitle: "",
                 }}
